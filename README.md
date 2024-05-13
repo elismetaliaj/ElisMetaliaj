@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/BadgeText-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=elismetaliaj&count_private=true&theme=radical&show_icons=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elismetaliaj)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=elismetaliaj&count_private=true&theme=radical&show_icons=true" />
