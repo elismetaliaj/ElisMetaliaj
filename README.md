@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/BadgeText-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+
+<img src="https://github-readme-stats.vercel.app/api?elismetaliaj=elismetaliaj&count_private=true&theme=radical&show_icons=true" />
