@@ -4,7 +4,7 @@
 
 I'm Elis, I am a Platform DevOps Engineer, with an experience on IT industry, working with different cloud services such as Azure & Integrating and maintaining Security & infrastructure. skilled in Cloud Computing and applying the fundamental rules of CI/CD DevOps pipelines in Azure. Currently working Platform DevOps Engineer, and ensuring seamless integration through Azure DevOps.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kevin-feng-87a174202/)](https://www.linkedin.com/in/kevin-feng-87a174202/) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/elis-metaliaj//)](https://www.linkedin.com/in/elis-metaliaj//) 
 ![](https://komarev.com/ghpvc/?username=elismetaliaj&style=for-the-badge)
 
 
